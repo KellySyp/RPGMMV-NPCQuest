@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":2,"characterName":"People1","classId":1,"equips":[1,1,52,3,0],"faceIndex":2,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Brian","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":3,"characterName":"People3","classId":3,"equips":[7,0,46,2,0],"faceIndex":3,"faceName":"People3","traits":[],"initialLevel":3,"maxLevel":99,"name":"Reina","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":2,"equips":[32,0,48,3,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Carl","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"Actor2","classId":3,"equips":[7,0,46,2,39],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":2,"maxLevel":99,"name":"Morgan","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":5,"characterName":"Evil","classId":1,"equips":[14,0,60,10,76],"faceIndex":5,"faceName":"Evil","traits":[{"code":51,"dataId":8,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Tinsl","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":2,"characterName":"Actor3","classId":2,"equips":[44,0,47,3,0],"faceIndex":2,"faceName":"Actor3","traits":[],"initialLevel":3,"maxLevel":99,"name":"Jackass","nickname":"","note":"","profile":""}
+]
